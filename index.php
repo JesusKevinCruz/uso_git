@@ -1,4 +1,5 @@
 <?php
+//comentario de una sola línea
 echo("hola mundo");
 
 $nombre = "Juan";
